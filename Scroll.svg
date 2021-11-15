@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="75" viewBox="0 0 44 75">
+  <g id="Scroll_" data-name="Scroll " transform="translate(-178 -519)">
+    <g id="Group_12" data-name="Group 12">
+      <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(178 519)" fill="none" stroke="#f7f7f7" stroke-width="6">
+        <rect width="44" height="75" rx="22" stroke="none"/>
+        <rect x="3" y="3" width="38" height="69" rx="19" fill="none"/>
+      </g>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="12" cy="12" r="12" transform="translate(188 530)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

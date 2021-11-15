@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="480" viewBox="0 0 500 480">
+  <g id="Group_13" data-name="Group 13" transform="translate(-639 -178)">
+    <g id="Main_Design" data-name="Main Design">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="127" height="127" rx="24" transform="translate(890 178)" fill="#7e2ef0"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="127" height="127" rx="24" transform="translate(890 414)" fill="#7e2ef0"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="127" height="127" rx="24" transform="translate(639 414)" fill="#db46d4" opacity="0.506"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="127" height="127" rx="24" transform="translate(763 531)" fill="#fff"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="127" height="127" rx="24" transform="translate(763 294)" fill="#fff"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="127" height="127" rx="24" transform="translate(1012 294)" fill="#7e2ef0" opacity="0.495"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="55" cy="55" r="55" transform="translate(899 305)" fill="#e74cfc"/>
+    </g>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="55" cy="55" r="55" transform="translate(772 421)" fill="#6feafc"/>
+  </g>
+</svg>
